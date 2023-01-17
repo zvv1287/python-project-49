@@ -22,8 +22,14 @@ def brain_gsd():
     gsd_main()
 
 
+def brain_progression():
+    from brain_games.games.brain_progression import main as progression_main
+    progression_main()
+
+
 if __name__ == '__main__':
     main()
     brain_even()
     brain_calc()
     brain_gsd()
+    brain_progression()

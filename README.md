@@ -9,4 +9,5 @@ https://asciinema.org/a/9bTwocKzmMHjqTzjOytAq7kNg
 https://asciinema.org/a/VFGGwWgpoJEbv1kTwtlMerMp2
 шаг 7
 https://asciinema.org/a/2D2VdLsntXjnmbcLHVsl32T2o
-
+шаг 8
+https://asciinema.org/a/FO9XCmlcdkmfsxSVEWv62T4Ji
