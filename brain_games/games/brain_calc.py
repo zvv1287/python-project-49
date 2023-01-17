@@ -19,6 +19,7 @@ def logic_of_game():
 def main():
     games_main(message=message, logic_of_game=logic_of_game)
 
+
 message = 'What is the result of the expression?'
 
 if __name__ == '__main__':

@@ -3,7 +3,10 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/aad09d4c94aae252d5c1/maintainability)](https://api.codeclimate.com/v1/badges/aad09d4c94aae252d5c1/maintainability)
 
 ### Ссылка на аскинему с записью работы программы:
+шаг 5
 https://asciinema.org/a/9bTwocKzmMHjqTzjOytAq7kNg
-v.2
+шаг 6
 https://asciinema.org/a/VFGGwWgpoJEbv1kTwtlMerMp2
+шаг 7
+https://asciinema.org/a/2D2VdLsntXjnmbcLHVsl32T2o
 

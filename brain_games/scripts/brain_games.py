@@ -17,8 +17,13 @@ def brain_calc():
     calc_main()
 
 
+def brain_gsd():
+    from brain_games.games.brain_gsd import main as gsd_main
+    gsd_main()
+
+
 if __name__ == '__main__':
     main()
     brain_even()
     brain_calc()
-    
+    brain_gsd()

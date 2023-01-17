@@ -7,11 +7,12 @@ def main(message, logic_of_game):
     print(message)
     for _ in range(3):
         true_answer = logic_of_game()
-        answer = prompt.string(f'Your answer: ')
+        answer = prompt.string('Your answer: ')
         if answer == true_answer:
             print('Correct!')
         else:
-            print(f"'{answer}' is wrong answer ;(. Correct answer was '{true_answer}'.")
+            print(f"'{answer}' is wrong answer ;\
+(. Correct answer was '{true_answer}'.")
             print(f"Let's try again, {user_name}!")
             break
     else:
