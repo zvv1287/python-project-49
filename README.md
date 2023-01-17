@@ -11,3 +11,5 @@ https://asciinema.org/a/VFGGwWgpoJEbv1kTwtlMerMp2
 https://asciinema.org/a/2D2VdLsntXjnmbcLHVsl32T2o
 шаг 8
 https://asciinema.org/a/FO9XCmlcdkmfsxSVEWv62T4Ji
+шаг 9
+https://asciinema.org/a/vlTz6LZFM4RBieXIR7v8o6sy6

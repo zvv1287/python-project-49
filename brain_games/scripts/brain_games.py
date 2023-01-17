@@ -27,9 +27,15 @@ def brain_progression():
     progression_main()
 
 
+def brain_prime():
+    from brain_games.games.brain_prime import main as prime_main
+    prime_main()
+
+
 if __name__ == '__main__':
     main()
     brain_even()
     brain_calc()
     brain_gsd()
     brain_progression()
+    brain_prime()
