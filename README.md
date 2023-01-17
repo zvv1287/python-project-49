@@ -4,4 +4,6 @@
 
 ### Ссылка на аскинему с записью работы программы:
 https://asciinema.org/a/9bTwocKzmMHjqTzjOytAq7kNg
+v.2
+https://asciinema.org/a/VFGGwWgpoJEbv1kTwtlMerMp2
 

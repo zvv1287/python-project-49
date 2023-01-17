@@ -7,5 +7,18 @@ def main():
     return cli.welcome_user()
 
 
+def brain_even():
+    from brain_games.games.brain_even import main as even_main
+    even_main()
+
+
+def brain_calc():
+    from brain_games.games.brain_calc import main as calc_main
+    calc_main()
+
+
 if __name__ == '__main__':
     main()
+    brain_even()
+    brain_calc()
+    

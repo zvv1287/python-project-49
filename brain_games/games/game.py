@@ -1,19 +1,12 @@
 import prompt
-import random
 from brain_games.scripts import brain_games
 
 
-def main():
+def main(message, logic_of_game):
     user_name = brain_games.main()
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    print(message)
     for _ in range(3):
-        number = random.randint(0, 1000)
-        if number % 2 == 0:
-            true_answer = 'yes'
-        else:
-            true_answer = 'no'
-
-        print(f'Question: {number}')
+        true_answer = logic_of_game()
         answer = prompt.string(f'Your answer: ')
         if answer == true_answer:
             print('Correct!')
@@ -26,4 +19,5 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    print('da')
+    main('', print('dsf'))
