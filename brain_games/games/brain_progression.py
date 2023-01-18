@@ -12,7 +12,7 @@ def logic_of_game():
     number_index = random.randint(0, quantity - 1)
     true_answer = str(res_list[number_index])
     res_list[number_index] = '..'
-    print(f'Question: {res_list}')
+    print(f'Question: {" ".join(map(str, res_list))}')
     return true_answer
 
 
