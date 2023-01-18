@@ -16,7 +16,7 @@ def logic_of_game():
     return true_answer
 
 
-message = 'Find the greatest common divisor of given numbers.'
+message = 'What number is missing in the progression?'
 
 
 def main():
