@@ -1,9 +1,9 @@
 import prompt
-from brain_games.scripts import brain_games
+from brain_games import cli
 
 
 def main(message, logic_of_game):
-    user_name = brain_games.main()
+    user_name = cli.welcome_user()
     print(message)
     for _ in range(3):
         true_answer = logic_of_game()
