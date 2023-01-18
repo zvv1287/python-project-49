@@ -14,7 +14,7 @@ prompt = "^0.4.1"
 brain-games = "brain_games.scripts.brain_games:main"
 brain-even = "brain_games.scripts.brain_games:brain_even"
 brain-calc = "brain_games.scripts.brain_games:brain_calc"
-brain-gsd = "brain_games.scripts.brain_games:brain_gsd"
+brain-gcd = "brain_games.scripts.brain_games:brain_gsd"
 brain-progression = "brain_games.scripts.brain_games:brain_progression"
 brain-prime = "brain_games.scripts.brain_games:brain_prime"
 
