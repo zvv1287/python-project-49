@@ -19,3 +19,7 @@ git-add-commot-push:
 	git add .
 	git commit -m "$m"
 	git push
+
+lint:	
+	poetry run flake8 brain_games
+
