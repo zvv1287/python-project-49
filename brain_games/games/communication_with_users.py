@@ -5,7 +5,7 @@ def user_answer(question):
 
 
 def check_user_ansver_and_print_res(name, result, answer):
-    if result == answer:
+    if str(result) == answer:
         print('Correct!')
         return True
     else:
