@@ -15,10 +15,9 @@ all-install:build publish package-install
 brain-games:
 	poetry run brain-games
 
-git-add-commot-push:
+git-add-commit:
 	git add .
 	git commit -m "$m"
-	git push
 
 lint:	
 	poetry run flake8 brain_games
