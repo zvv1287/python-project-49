@@ -26,4 +26,3 @@ def calc():
         answer = user_answer(f'Question: {number_1} {sign} {number_2}')
         flag = check_user_ansver_and_print_res(user_name, result, answer)
         i += 1
-
